@@ -34,7 +34,7 @@ git clone https://github.com/khuyentran1401/Data-science
 16. [Python](#python)
 17. [Terminal](#terminal)
 18. [Linear Algebra](#linear-algebra)
-19. [Data Structure](#data-structure)
+19. [Data Structures](#data-structures)
 20. [Statistics](#statistics)
 21. [Web Applications](#web-applications)
 22. [Share Insights](#share-insights)
@@ -286,7 +286,7 @@ git clone https://github.com/khuyentran1401/Data-science
 | Linear Algebra for Machine Learning: Solve a System of Linear Equations | [🔗](https://towardsdatascience.com/linear-algebra-for-machine-learning-solve-a-system-of-linear-equations-3ec7e882e10f) | [🔗](https://github.com/khuyentran1401/Numerical-Optimization-Machine-learning/blob/master/Backward%20substitution%20and%20Gaussian%20Elimiation.ipynb) |
 
 
-# Data Structure
+# Data Structures
 
 | Title        | Article           | Repository  |
 | ------------- |:-------------:| :-----:|
